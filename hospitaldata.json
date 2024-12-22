@@ -1,0 +1,52 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "amar hospital",
+      "patientCount": 4,
+      "location": "attingal"
+    },
+    {
+      "id": 2,
+      "name": "cosmo hospital",
+      "patientCount": 5,
+      "location": "trivandrum"
+    },
+    {
+      "id": 3,
+      "name": "csi hospital",
+      "patientCount": 3,
+      "location": "mangalapuram"
+    },
+    {
+      "id": 4,
+      "name": "vv clinic hospital",
+      "patientCount": 3,
+      "location": "kottiyam"
+    },
+    {
+      "id": 5,
+      "name": "medical centre",
+      "patientCount": 3,
+      "location": "thrissur"
+    },
+    {
+      "id": 6,
+      "name": "sp hospital",
+      "patientCount": 3,
+      "location": "kozhikode"
+    },
+    {
+      "name": "abc hospital",
+      "patientCount": 7,
+      "location": "chempakamangalam",
+      "id": 8
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ]
+}
